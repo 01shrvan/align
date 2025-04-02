@@ -17,7 +17,7 @@ export const Hero = () => {
                 Connect Deeper, Match Smarter
               </h1>
               <p className="text-xl text-[#010D3E] tracking-tight mt-6">
-                Align's got your back with AI-driven vibes, microblogs and streaks to keep it real. For Gen Z creators who crave connections that actually matter.
+                Align's got your back with AI-driven vibes, microblogs and streaks to keep it real. For Gen Z creators who crave connections that actually matter
               </p>
             </div>
             <div className="mt-20 md:mt-0 md:h-[648px] md:flex-1 relative">
